@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Keras/TensorFlow artifacts
+*.keras
+*.h5
+
+.DS_Store

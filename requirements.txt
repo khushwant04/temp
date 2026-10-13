@@ -1,0 +1,8 @@
+gensim>=4.0
+numpy
+scikit-learn
+tensorflow>=2.16
+matplotlib
+jupyter
+pandas
+wittgenstein
